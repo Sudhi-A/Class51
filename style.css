@@ -1,0 +1,23 @@
+.header{
+    background-color:#4dadad;
+    display:flex;
+    justify-content: space-between;
+}
+body{
+    background-color: #716ff0cb;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    background-color: #1E1ECA;
+    display:flex;
+    justify-content:flex-end;
+}
+
+
+
+
